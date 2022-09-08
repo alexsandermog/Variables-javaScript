@@ -8,6 +8,6 @@ peso -number
 
 altura -number 
 
-dataDeInternacao -number 
+data De Internacao -number 
 
 diabético - string
